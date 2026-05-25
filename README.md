@@ -1,24 +1,7 @@
 <!-- 🌊 Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1d4ed8,50:3b82f6,75:60a5fa,100:93c5fd&height=220&section=header&text=Rusira%20Indrachapa&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BIT%20Undergraduate%20🇱🇰&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,25:1f2a44,50:2563eb,75:3b82f6,100:60a5fa&height=200&section=header&text=Rusira%20Indrachapa&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BIT%20Undergraduate%20🇱🇰&descAlignY=58&descSize=18&animation=twinkling"/>
 
-<!-- ⚡ Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&
-weight=700&
-size=22&
-duration=2800&
-pause=900&
-color=3B82F6&
-center=true&
-vCenter=true&
-width=650&
-lines=🚀+Crafting+modern+web+applications;
-💻+Full+Stack+Developer+(React+%2B+.NET);
-🎓+BIT+Undergraduate+from+Sri+Lanka;
-🌱+Exploring+Cloud,+DevOps+%26+System+Design;
-🔥+Always+building,+always+improving"/>
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE1dmx2dDE5emF3Zm95Y3Q3OHkyMnVnNml0dnU5MzdtMDZkYmRnaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=🚀+Building+scalable+web+apps;💻+Full+Stack+Developer+%7C+React+%26+.NET;🎓+BIT+Undergraduate+Sri+Lanka;🌱+Learning+Cloud+%26+DevOps" />
 </div>
 
 ###
