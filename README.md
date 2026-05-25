@@ -1,7 +1,8 @@
 <!-- 🌊 Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,25:1f2a44,50:2563eb,75:3b82f6,100:60a5fa&height=200&section=header&text=Rusira%20Indrachapa&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BIT%20Undergraduate%20🇱🇰&descAlignY=58&descSize=18&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,25:111827,50:1e3a8a,75:2563eb,100:3b82f6&height=200&section=header&text=Rusira%20Indrachapa&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BIT%20Undergraduate%20🇱🇰&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=🚀+Building+scalable+web+apps;💻+Full+Stack+Developer+%7C+React+%26+.NET;🎓+BIT+Undergraduate+Sri+Lanka;🌱+Learning+Cloud+%26+DevOps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=600&lines=🚀+Building+scalable+web+apps;💻+Full+Stack+Developer+%7C+React+%26+.NET;🎓+BIT+Undergraduate+Sri+Lanka;🌱+Learning+Cloud+%26+DevOps" />
+</div>
 </div>
 
 ###
