@@ -1,5 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=Nethsara%20Shyamika&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Developer%20%7C%20Sri%20Lanka%20🇱🇰&descAlignY=58&descSize=18"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Building+cool+things+one+commit+at+a+time;%F0%9F%92%A1+SLIIT+Undergraduate+%7C+Full+Stack+Dev;%F0%9F%8C%B1+Always+learning%2C+always+growing" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=Rusira%20Indrachapa&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BIT%20Undergraduate%20🇱🇰&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Building+scalable+web+apps;💻+Full+Stack+Developer+%7C+React+%26+.NET;🎓+BIT+Undergraduate+Sri+Lanka;🌱+Learning+Cloud+%26+DevOps" />
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE1dmx2dDE5emF3Zm95Y3Q3OHkyMnVnNml0dnU5MzdtMDZkYmRnaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif"  />
