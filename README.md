@@ -81,3 +81,11 @@
 </div>
 
 ###
+
+## 📊 GitHub Stats
+
+![Stats](https://raw.githubusercontent.com/USERNAME/REPO/stats-output/stats.svg)
+
+## 📈 Most Used Languages
+
+![Languages](https://raw.githubusercontent.com/USERNAME/REPO/stats-output/languages.svg)
