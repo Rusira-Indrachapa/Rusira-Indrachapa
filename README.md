@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rusira-Indrachap&label=Profile%20views&color=0e75b6&style=flat" alt="Rusira-Indrachap" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rusira-Indrachapa.Rusira-Indrachapa&"  />
+  <img src="https://komarev.com/ghpvc/?username=Rusira-Indrachapa&label=Profile%20views&color=0e75b6&style=flat" alt="Rusira-Indrachap" />
+  <img src="https://img.shields.io/github/followers/Rusira-Indrachapana?label=Followers&style=flat&color=green" alt="GitHub Followers" />
 </div>
 
 ###
