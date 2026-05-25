@@ -22,8 +22,8 @@
 <h3 align="center">Undergraduate | Passionate about IT & New Technology</h3>
 
 ###
-
-<p align="left">I'mRusira Indrachapa from  Sri lanka<br><br>- 🔭 I’m Undergraduate At UOM BIT (external Degree)<br>- 📚 I'm currently learning C#, Python, database systems, and web development<br>- ⚡ In my free time I watch tech videos / code / listen to music / explore new tech</p>
+## 🧑‍💻 About Me
+<p align="left"> I'm Rusira Indrachapa from  Sri Lanka <br><br>- 🔭 I’m an undergraduate at UOM BIT (external Degree)<br>- 📚 I'm currently learning C#, Python, database systems, and web development<br>- ⚡ In my free time, I watch tech videos/code / listen to music / explore new tech</p>
 
 ###
 
