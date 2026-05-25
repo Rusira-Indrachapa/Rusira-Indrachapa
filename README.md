@@ -76,8 +76,10 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rusira-Indrachapa/Rusira-Indrachapa/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Rusira-Indrachapa/Rusira-Indrachapa/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Rusira-Indrachapa/Rusira-Indrachapa/stats-output/stats.svg" height="150" />
+  <img src="https://raw.githubusercontent.com/Rusira-Indrachapa/Rusira-Indrachapa/stats-output/languages.svg" height="150" />
+</div>
 </div>
 
 ###
