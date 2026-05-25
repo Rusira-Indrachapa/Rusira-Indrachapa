@@ -1,4 +1,4 @@
-name: Generate stats card
+name: Generate GitHub Cards
 
 on:
   schedule:
@@ -10,26 +10,33 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      # ✅ REQUIRED STEP (FIXES MANY ERRORS)
       - uses: actions/checkout@v4
 
-      # 📊 Generate stats card
+      # 📊 Stats Card
       - name: generate stats.svg
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&theme=dracula
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🚀 Deploy to branch
-      - name: push stats.svg to output branch
+      # 📈 Languages Card
+      - name: generate languages.svg
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=5&theme=calm
+          path: dist/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 🚀 Deploy both
+      - name: deploy
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: stats-output
