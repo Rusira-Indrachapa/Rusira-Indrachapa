@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rusira-Indrachapa&label=Profile%20views&color=0e75b6&style=flat" alt="Rusira-Indrachap" />
-  <img src="https://img.shields.io/github/followers/Rusira-Indrachapa?label=Followers&color=0e75b6&style=flat" alt="followers" />
+  <img src="https://img.shields.io/github/followers/Rusira-Indrachapa?label=Followers&color=f97316&style=flat" alt="followers" />
   
 </div>
 
