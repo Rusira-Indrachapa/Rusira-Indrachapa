@@ -9,7 +9,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rusira-Indrachapa&label=Profile%20views&color=0e75b6&style=flat" alt="Rusira-Indrachap" />
-  ![GitHub followers](https://img.shields.io/github/followers/Rusira-Indrachapa?label=Followers&style=for-the-badge)
+  <img src="https://img.shields.io/github/followers/Rusira-Indrachapa?label=Followers&color=0e75b6&style=flat" alt="followers" />
+  
 </div>
 
 ###
