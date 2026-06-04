@@ -75,3 +75,4 @@ I'm Rusira Indrachapa from Sri Lanka 🇱🇰
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rusira-Indrachapa&theme=github-dark&hide_border=true" />
 </div>
+https://github-readme-stats.vercel.app/api?username=Rusira-Indrachapa
