@@ -68,8 +68,6 @@ I'm Rusira Indrachapa from Sri Lanka 🇱🇰
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rusira-Indrachapa&theme=radical" height="200"/>
 </div>
----
-
 # 📈 Contribution Activity (FIXED GRAPH)
 
 <div align="center">
