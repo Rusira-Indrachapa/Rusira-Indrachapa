@@ -58,11 +58,11 @@ I'm Rusira Indrachapa from Sri Lanka 🇱🇰
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rusira-Indrachapa&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rusira-Indrachapa&show_icons=true&theme=radical" height="200"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rusira-Indrachapa&layout=compact&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rusira-Indrachapa&layout=compact&theme=radical" height="200"/>
 </div>
 
 <div align="center">
