@@ -54,17 +54,22 @@ I'm Rusira Indrachapa from Sri Lanka 🇱🇰
 </div>
 
 ---
-<h3 align="left">🔥 My Stats</h3>
+<h2 align="center">⚡ GitHub Developer Dashboard ⚡</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rusira-Indrachapa&theme=radical"/>
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rusira-Indrachapa&theme=radical"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusira-Indrachapa&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rusira-Indrachapa&theme=radical"/>
 </p>
----
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rusira-Indrachapa&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rusira-Indrachapa&theme=radical&utcOffset=+5.5"/>
+</p>
+
 
 # 📈 Contribution Activity (FIXED GRAPH)
 
