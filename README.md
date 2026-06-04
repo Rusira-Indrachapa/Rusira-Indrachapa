@@ -50,6 +50,10 @@ I am an IT Undergraduate passionate about building functional, visually polished
 </p>
 
 ---
+# 🏅 CERTIFICATIONS & BADGES
+<p align="center">
+  <img src="https://github.com/nisalgunawardhana/Github-for-beginners/raw/main/images/badge.png" height="180" alt="GitHub for Beginners Badge"/>
+</p>
 
 # 📊 GITHUB ANALYTICS
 
