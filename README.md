@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rusira-Indrachapa&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Rusira-Indrachapa?label=Followers&color=f97316&style=flat" />
+
 </p>
 
 ---
